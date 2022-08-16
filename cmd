@@ -1,6 +1,11 @@
 Criar um aplicação Laravel 
 composer create-project laravel/laravel:^8.0 example-app
 
+INSTALAR LARAVEL / UI
+composer require laravel/ui
+
+Instalar Bootstrap Auth Scaffolding
+php artisan ui bootstrap --auth
 
 instalar livewire
 composer require livewire/livewire
